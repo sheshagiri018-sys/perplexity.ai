@@ -1,4 +1,4 @@
-# perplexity.ai
+# perplexity.ai👾
 # 💻 Cyberpunk Hacker Portfolio | AI-Assisted Frontend Experience 🚀
 
 Welcome to my **Hacker-Themed Portfolio Website** — a creative frontend project inspired by cybersecurity aesthetics, terminal interfaces, and futuristic digital environments.
