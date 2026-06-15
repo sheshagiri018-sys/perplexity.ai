@@ -21,7 +21,7 @@ Instead of a conventional portfolio, visitors enter a world of:
 
 ---
 
-## 🎨 Design Inspiration
+## 🎨 Design Inspiration🪐
 
 Inspired by:
 
