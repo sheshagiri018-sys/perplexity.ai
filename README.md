@@ -13,7 +13,7 @@ The goal of this project was to create a portfolio that breaks away from traditi
 
 Instead of a conventional portfolio, visitors enter a world of:
 
-* 💻 Terminal-inspired interfaces
+* 💻 Terminal-inspired interfaces!
 * 🟢 Matrix-style visuals
 * ⚡ Cyberpunk aesthetics
 * 🔐 Hacker-themed animations
