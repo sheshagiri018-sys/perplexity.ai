@@ -17,7 +17,7 @@ Instead of a conventional portfolio, visitors enter a world of:
 * 🟢 Matrix-style visuals
 * ⚡ Cyberpunk aesthetics
 * 🔐 Hacker-themed animations
-* 🚀 Futuristic user interactions
+* 🚀 Futuristic user interactions!!!!!!
 
 ---
 
