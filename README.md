@@ -37,13 +37,12 @@ The design focuses on creating an immersive digital atmosphere while still showc
 
 ## ✨ Key Features
 
-* 💻 Terminal-style user interface
-* 🟢 Hacker-themed typography and visuals
-* ⚡ Interactive animations and effects
-* 🔐 Cyberpunk-inspired design elements
-* 🌌 Futuristic digital environment
-* 📱 Fully responsive layout
-* 🚀 Smooth navigation experience
+* 💻 Terminal-style user interface.
+* 🟢 Hacker-themed typography and visuals.
+* ⚡ Interactive animations and effects.
+* 🔐 Cyberpunk-inspired design elements.
+* 🌌 Futuristic digital environment.
+* 🚀 Smooth navigation experience.
 
 ---
 
