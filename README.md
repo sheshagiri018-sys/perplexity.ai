@@ -70,7 +70,7 @@ The project demonstrates how AI can be used as a creative assistant while still 
 
 ---
 
-## 🧠 What I Learned
+## 🧠 What I Learned!!
 
 Through this project, I improved my understanding of:
 
@@ -83,13 +83,13 @@ Through this project, I improved my understanding of:
 
 ---
 
-## 📌 Project Status
+## 📌 Project Status.
 
 ✅ Completed and published as a separate GitHub repository
 
 ---
 
-## 🚀 Future Enhancements
+## 🚀 Future Enhancements.
 
 * 🟢 Advanced terminal commands
 * 🌌 More cyberpunk visual effects
