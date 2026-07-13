@@ -83,7 +83,7 @@ Through this project, I improved my understanding of:
 
 ---
 
-## 📌 Project Status.
+## 📌 Project Status!!!
 
 ✅ Completed and published as a separate GitHub repository
 
