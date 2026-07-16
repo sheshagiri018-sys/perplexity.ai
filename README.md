@@ -48,9 +48,9 @@ The design focuses on creating an immersive digital atmosphere while still showc
 
 ## ⚙️ Technologies Used
 
-* 🌐 HTML5
-* 🎨 CSS3
-* 💻 JavaScript
+* 🌐 HTML5💫
+* 🎨 CSS3💫
+* 💻 JavaScript💫
 
 ---
 
